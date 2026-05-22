@@ -80,7 +80,7 @@
 
         .hero {
             position: relative;
-            background-image: url("/pic/bg/bg.jpg");
+            background-image: url("pic/bg/bg.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
